@@ -1,0 +1,15 @@
+C:\Users\mateu\OneDrive - ifro.edu.br\ADS\3° Periodo\Programação Orientada a Objetos\MeuPrimeiroProjeto\MeuPrimeiroProjeto\obj\Debug\net8.0\MeuPrimeiroProjeto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mateu\OneDrive - ifro.edu.br\ADS\3° Periodo\Programação Orientada a Objetos\MeuPrimeiroProjeto\MeuPrimeiroProjeto\obj\Debug\net8.0\MeuPrimeiroProjeto.AssemblyInfoInputs.cache
+C:\Users\mateu\OneDrive - ifro.edu.br\ADS\3° Periodo\Programação Orientada a Objetos\MeuPrimeiroProjeto\MeuPrimeiroProjeto\obj\Debug\net8.0\MeuPrimeiroProjeto.AssemblyInfo.cs
+C:\Users\mateu\OneDrive - ifro.edu.br\ADS\3° Periodo\Programação Orientada a Objetos\MeuPrimeiroProjeto\MeuPrimeiroProjeto\obj\Debug\net8.0\MeuPrimeiroProjeto.csproj.CoreCompileInputs.cache
+C:\Users\mateu\OneDrive - ifro.edu.br\ADS\3° Periodo\Programação Orientada a Objetos\MeuPrimeiroProjeto\MeuPrimeiroProjeto\obj\Debug\net8.0\MeuPrimeiroProjeto.sourcelink.json
+C:\Users\mateu\OneDrive - ifro.edu.br\ADS\3° Periodo\Programação Orientada a Objetos\MeuPrimeiroProjeto\MeuPrimeiroProjeto\bin\Debug\net8.0\MeuPrimeiroProjeto.exe
+C:\Users\mateu\OneDrive - ifro.edu.br\ADS\3° Periodo\Programação Orientada a Objetos\MeuPrimeiroProjeto\MeuPrimeiroProjeto\bin\Debug\net8.0\MeuPrimeiroProjeto.deps.json
+C:\Users\mateu\OneDrive - ifro.edu.br\ADS\3° Periodo\Programação Orientada a Objetos\MeuPrimeiroProjeto\MeuPrimeiroProjeto\bin\Debug\net8.0\MeuPrimeiroProjeto.runtimeconfig.json
+C:\Users\mateu\OneDrive - ifro.edu.br\ADS\3° Periodo\Programação Orientada a Objetos\MeuPrimeiroProjeto\MeuPrimeiroProjeto\bin\Debug\net8.0\MeuPrimeiroProjeto.dll
+C:\Users\mateu\OneDrive - ifro.edu.br\ADS\3° Periodo\Programação Orientada a Objetos\MeuPrimeiroProjeto\MeuPrimeiroProjeto\bin\Debug\net8.0\MeuPrimeiroProjeto.pdb
+C:\Users\mateu\OneDrive - ifro.edu.br\ADS\3° Periodo\Programação Orientada a Objetos\MeuPrimeiroProjeto\MeuPrimeiroProjeto\obj\Debug\net8.0\MeuPrimeiroProjeto.dll
+C:\Users\mateu\OneDrive - ifro.edu.br\ADS\3° Periodo\Programação Orientada a Objetos\MeuPrimeiroProjeto\MeuPrimeiroProjeto\obj\Debug\net8.0\refint\MeuPrimeiroProjeto.dll
+C:\Users\mateu\OneDrive - ifro.edu.br\ADS\3° Periodo\Programação Orientada a Objetos\MeuPrimeiroProjeto\MeuPrimeiroProjeto\obj\Debug\net8.0\MeuPrimeiroProjeto.pdb
+C:\Users\mateu\OneDrive - ifro.edu.br\ADS\3° Periodo\Programação Orientada a Objetos\MeuPrimeiroProjeto\MeuPrimeiroProjeto\obj\Debug\net8.0\MeuPrimeiroProjeto.genruntimeconfig.cache
+C:\Users\mateu\OneDrive - ifro.edu.br\ADS\3° Periodo\Programação Orientada a Objetos\MeuPrimeiroProjeto\MeuPrimeiroProjeto\obj\Debug\net8.0\ref\MeuPrimeiroProjeto.dll

@@ -1,7 +1,12 @@
 ﻿
 
 
-using System;
+try
+{
+    Conta c = new Conta();
+    c.SetSaldo(-60);
 
-Console.WriteLine("Meu Primeiro Projeto");
-Console.WriteLine("Hello World");
+}catch (Exception ex)
+{
+    Console.WriteLine(ex.Message);
+}

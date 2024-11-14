@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\mateu\\OneDrive - ifro.edu.br\\ADS\\3\u00B0 Periodo\\Programa\u00E7\u00E3o Orientada a Objetos\\MeuPrimeiroProjeto\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{1E29C95B-1641-4420-88D8-B42DA87D564C}|MeuPrimeiroProjeto\\MeuPrimeiroProjeto.csproj|c:\\users\\mateu\\onedrive - ifro.edu.br\\ads\\3\u00B0 periodo\\programa\u00E7\u00E3o orientada a objetos\\meuprimeiroprojeto\\meuprimeiroprojeto\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1E29C95B-1641-4420-88D8-B42DA87D564C}|MeuPrimeiroProjeto\\MeuPrimeiroProjeto.csproj|solutionrelative:meuprimeiroprojeto\\conta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{1E29C95B-1641-4420-88D8-B42DA87D564C}|MeuPrimeiroProjeto\\MeuPrimeiroProjeto.csproj|c:\\users\\mateu\\onedrive - ifro.edu.br\\ads\\3\u00B0 periodo\\programa\u00E7\u00E3o orientada a objetos\\meuprimeiroprojeto\\meuprimeiroprojeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1E29C95B-1641-4420-88D8-B42DA87D564C}|MeuPrimeiroProjeto\\MeuPrimeiroProjeto.csproj|solutionrelative:meuprimeiroprojeto\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,19 +23,28 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Conta.cs",
+              "DocumentMoniker": "C:\\Users\\mateu\\OneDrive - ifro.edu.br\\ADS\\3\u00B0 Periodo\\Programa\u00E7\u00E3o Orientada a Objetos\\MeuPrimeiroProjeto\\MeuPrimeiroProjeto\\Conta.cs",
+              "RelativeDocumentMoniker": "MeuPrimeiroProjeto\\Conta.cs",
+              "ToolTip": "C:\\Users\\mateu\\OneDrive - ifro.edu.br\\ADS\\3\u00B0 Periodo\\Programa\u00E7\u00E3o Orientada a Objetos\\MeuPrimeiroProjeto\\MeuPrimeiroProjeto\\Conta.cs",
+              "RelativeToolTip": "MeuPrimeiroProjeto\\Conta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T00:11:17.106Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\mateu\\OneDrive - ifro.edu.br\\ADS\\3\u00B0 Periodo\\Programa\u00E7\u00E3o Orientada a Objetos\\MeuPrimeiroProjeto\\MeuPrimeiroProjeto\\Program.cs",
               "RelativeDocumentMoniker": "MeuPrimeiroProjeto\\Program.cs",
               "ToolTip": "C:\\Users\\mateu\\OneDrive - ifro.edu.br\\ADS\\3\u00B0 Periodo\\Programa\u00E7\u00E3o Orientada a Objetos\\MeuPrimeiroProjeto\\MeuPrimeiroProjeto\\Program.cs",
               "RelativeToolTip": "MeuPrimeiroProjeto\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-07T00:14:54.094Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             }
           ]
         }
